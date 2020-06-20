@@ -46,6 +46,10 @@ logger.info('This is an info');
 
 Please, if you find any issue or want to make any improvements open a Pull Request
 
+## Pull Requests
+
+When to create a Pull Request your base branch will be `develop`
+
 ## Examples
 
 ![example image](./assets/images/example.jpg)
